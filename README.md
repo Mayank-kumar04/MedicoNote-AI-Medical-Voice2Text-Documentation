@@ -1,6 +1,6 @@
 # 🏥 MedicoNote - AI-Powered Medical Documentation Platform
 
-An intelligent medical documentation system that transforms voice recordings into professional clinical notes using advanced AI technology.
+An intelligent medical documentation system that transforms voice recordings into professional clinical notes using AI.
 
 ## ✨ Features
 
